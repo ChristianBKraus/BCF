@@ -5,15 +5,15 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <name>address-manager - Integration Tests</name>
-    <description>address-manager - Integration Tests</description>
+    <name>bcf - Integration Tests</name>
+    <description>bcf - Integration Tests</description>
 
-    <artifactId>address-manager-integration-tests</artifactId>
+    <artifactId>bcf-integration-tests</artifactId>
     <version>1.0</version>
 
     <parent>
-        <groupId>com.sap.cloud.s4hana.examples</groupId>
-        <artifactId>address-manager</artifactId>
+        <groupId>jupiterpa</groupId>
+        <artifactId>bcf</artifactId>
         <version>1.0</version>
     </parent>
 
@@ -33,8 +33,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.sap.cloud.s4hana.examples</groupId>
-            <artifactId>address-manager-application</artifactId>
+            <groupId>jupiterpa</groupId>
+            <artifactId>bcf-application</artifactId>
             <version>1.0</version>
             <exclusions>
                 <exclusion>

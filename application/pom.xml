@@ -5,15 +5,15 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <name>address-manager - Application</name>
-    <description>address-manager - Application</description>
+    <name>bcf - Application</name>
+    <description>Balance Carry Forward - Application</description>
 
-    <artifactId>address-manager-application</artifactId>
+    <artifactId>bcf-application</artifactId>
     <version>1.0</version>
 
     <parent>
-        <groupId>com.sap.cloud.s4hana.examples</groupId>
-        <artifactId>address-manager</artifactId>
+        <groupId>jupiterpa</groupId>
+        <artifactId>bcf</artifactId>
         <version>1.0</version>
     </parent>
 

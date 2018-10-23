@@ -3,11 +3,11 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <name>address-manager - Root</name>
-    <description>address-manager - Root</description>
+    <name>bcf - Root</name>
+    <description>bcf - Root</description>
 
-    <groupId>com.sap.cloud.s4hana.examples</groupId>
-    <artifactId>address-manager</artifactId>
+    <groupId>jupiterpa</groupId>
+    <artifactId>bcf</artifactId>
     <version>1.0</version>
     <packaging>pom</packaging>
 

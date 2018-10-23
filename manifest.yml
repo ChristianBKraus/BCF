@@ -1,11 +1,11 @@
 ---
 applications:
 
-- name: address-manager
+- name: bcf
   memory: 1024M
   timeout: 300
   random-route: true
-  path: application/target/address-manager-application.jar
+  path: application/target/bcf-application.jar
   buildpacks:
     - sap_java_buildpack
   env:
@@ -15,5 +15,5 @@ applications:
   services:
   - my-xsuaa
   - my-destination
-  - book-project-database
+  - bcf-database
 
