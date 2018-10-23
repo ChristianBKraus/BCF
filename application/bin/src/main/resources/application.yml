@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+multitenant:
+  defaultTenant: default-tenant
+
+spring:
+  jpa:
+    generate-ddl: true
+    database-platform: org.hibernate.dialect.H2Dialect
