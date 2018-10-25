@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.sap.xs2.security</groupId>
+  <artifactId>security-commons</artifactId>
+  <versioning>
+    <release>0.27.2</release>
+    <versions>
+      <version>0.14.6</version>
+      <version>0.27.2</version>
+    </versions>
+    <lastUpdated>20181023071823</lastUpdated>
+  </versioning>
+</metadata>
